@@ -94,10 +94,16 @@ Steps:
 * Add environment variables
 * Configure Supabase redirect URLs
 * Configure Google OAuth callback URL
+  
+---
+
+## 🧠 Challenges Faced & Solutions
+
+
+1.OAuth + Supabase setup confusion
+2. Google OAuth redirect mismatch after deployment
+3. Environment variables not working in Vercel
 
 ---
 
-## 👨‍💻 Author
 
-**Praveen Chakravarthy**
-Full Stack Developer (MERN + Next.js)
